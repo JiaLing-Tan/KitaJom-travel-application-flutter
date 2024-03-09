@@ -12,7 +12,7 @@ import '../provider/request_provider.dart';
 import '../utils/colors.dart';
 import '../widgets/profile_pic.dart';
 
-final apiKey = "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";
+final apiKey = "your_API";
 
 class ItineraryScreen extends StatefulWidget {
   const ItineraryScreen({super.key});
