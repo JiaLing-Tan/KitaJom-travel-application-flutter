@@ -1,4 +1,5 @@
 # KitaJom
+KitaJom a an application which allow customer to book sustainable tours and listings within Malaysia, as well as auto-generate an itinerary for their travels.
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/5a41e093-948c-44a6-8cb7-486d7ee93948)
 ![image](https://github.com/user-attachments/assets/45ad809d-328e-492e-8ef6-9ebb0f3f8579)
